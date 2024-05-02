@@ -3,7 +3,7 @@
 Здравствуйте.
 В этом репозитории собран весь проект игры. Для просмотра кода обратите внимание на файлы с расширением .cs, потому как расширение .cs.meta уже вспомогательные файлы Unity.
 
-#Описание
+# Описание
 Это репозиторий с файлами проекта на Unity с использованием языка C#.
 Игра представляет из себя некий клон известной Fall Guys: имеется начальная и конечная платформы, соединенные полосой препятствий.
 Полоса состоит из небольших платформ, некоторые из которых это различные ловушки.
@@ -23,7 +23,7 @@
 Hello.
 This repository contains the entire game project. To view the code, pay attention to files with the .cs extension, because the .cs.meta extension is already Unity helper files.
 
-#Description
+# Description
 This is a repository with project files in Unity using C#.
 The game is a kind of clone of the famous Fall Guys: there is a start and end platform connected by an obstacle course.
 The obstacle course consists of small platforms, some of which are various traps.
